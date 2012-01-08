@@ -1,6 +1,3 @@
-## Note: This class is just a demo and proposes a work solution without input and output checks, neither tested and
-commented.
-
 #Symfony2 BundlesAutoloader class
 Registering a bundle with Symfony2 framework consists in two steps:
 
@@ -123,3 +120,5 @@ placed and load them once a time. The previous example could be changed as follo
                         );
         }
     }
+
+Note: This class is just a demo and proposes a work solution without input and output checks, neither tested and commented.
